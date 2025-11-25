@@ -2,8 +2,8 @@
 Vietnam license plate detection project using deep learning
 
 # Tutorial
-# Virtual venv: python -m venv venv / venv\Scripts\activate
-
+# Virtual venv:
+![alt text](image.png)
 # Library: pip install -r requirements.txt
 torch
 torchvision
