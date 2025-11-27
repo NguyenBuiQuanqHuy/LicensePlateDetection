@@ -5,6 +5,7 @@ Vietnam license plate detection project using YOLO
 - Student Code: 64130854
 - From: Nha Trang University
 - Facebook: [Nguyen Bui Quang Huy](https://www.facebook.com/nguyen.bui.quang.huy.491359/)
+- Linkedln: [Huy Nguyễn Bùi Quang](https://www.linkedin.com/in/huy-nguyễn-bùi-quang-bb4b63381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Email: huybui2108@gmail.com
 
 # Tutorial
