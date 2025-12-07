@@ -10,7 +10,7 @@ Vietnam license plate detection project using YOLO
 
 # Tutorial
 # Virtual venv:
-![alt text](image.png)
+![alt text](image-4.png)
 # Library: pip install -r requirements.txt
 ![alt text](image.png)
 
